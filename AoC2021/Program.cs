@@ -50,6 +50,12 @@
                 case "6.2":
                     result = Day6.Puzzle2(input).ToString();
                     break;
+                case "7.1":
+                    result = Day7.Puzzle1(input).ToString();
+                    break;
+                case "7.2":
+                    result = Day7.Puzzle2(input).ToString();
+                    break;
                 default:
                     Console.WriteLine("Puzzle Not Found");
                     break;

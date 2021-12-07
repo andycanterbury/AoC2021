@@ -61,12 +61,5 @@
             school[8] = temp;
         }
 
-        public class Fish 
-        {
-            public int SpawnTimer { get; set; }
-
-        }
-
-
     }
 }
