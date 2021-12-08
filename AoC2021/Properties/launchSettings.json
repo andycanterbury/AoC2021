@@ -2,7 +2,7 @@
   "profiles": {
     "AoC2021": {
       "commandName": "Project",
-      "commandLineArgs": "7.2 input.txt"
+      "commandLineArgs": "8.2 input.txt"
     }
   }
 }
